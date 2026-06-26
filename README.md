@@ -3,7 +3,7 @@
 ## Short Bio
 
 #### Hi! I am Diptyajit! 
-- Neuroimaging Scientist in the AI Division at [BESA](https://www.besa.de/), working on AI based clinical neurophysiology solutions for epilepsy.
+- I'm a Neuroimaging Scientist at [BESA](https://www.besa.de/), working on AI based clinical neurophysiology solutions for epilepsy.
 
 
 ## Language and Tools
